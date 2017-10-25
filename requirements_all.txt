@@ -534,6 +534,7 @@ proliphix==0.4.1
 prometheus_client==0.0.19
 
 # homeassistant.components.sensor.systemmonitor
+# homeassistant.components.system_monitoring.systemmonitor
 psutil==5.4.0
 
 # homeassistant.components.wink
@@ -550,6 +551,7 @@ pushetta==1.0.15
 pwmled==1.2.1
 
 # homeassistant.components.sensor.cpuspeed
+# homeassistant.components.system_monitoring.cpuspeed
 py-cpuinfo==3.3.0
 
 # homeassistant.components.camera.synology
